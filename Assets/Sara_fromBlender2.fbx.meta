@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 5b3dfbf42c330244ea214578d0b825e0
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Backhair
+    100002: Body
+    100004: Bra
+    100006: Cornea
+    100008: Eyeballs
+    100010: Eyelashes
+    100012: Fronthair
+    100014: Pantsu
+    100016: //RootNode
+    100018: Shirt
+    100020: Shoes
+    100022: Skirt
+    100024: Socks
+    100026: Tophair
+    100028: Twintails
+    400000: Backhair
+    400002: Body
+    400004: Bra
+    400006: Cornea
+    400008: Eyeballs
+    400010: Eyelashes
+    400012: Fronthair
+    400014: Pantsu
+    400016: //RootNode
+    400018: Shirt
+    400020: Shoes
+    400022: Skirt
+    400024: Socks
+    400026: Tophair
+    400028: Twintails
+    2100000: EyeM
+    2100002: HairM
+    2100004: RibbonM
+    2100006: ShoeM
+    2100008: SocksM
+    2100010: ShirtM
+    2100012: ShirtBorderM
+    2100014: SkirtM
+    2100016: BikiniM
+    2100018: FaceM
+    2100020: BodyM
+    2100022: EyelashesM
+    2300000: Backhair
+    2300002: Body
+    2300004: Bra
+    2300006: Cornea
+    2300008: Eyeballs
+    2300010: Eyelashes
+    2300012: Fronthair
+    2300014: Pantsu
+    2300016: Shirt
+    2300018: Shoes
+    2300020: Skirt
+    2300022: Socks
+    2300024: Tophair
+    2300026: Twintails
+    3300000: Backhair
+    3300002: Body
+    3300004: Bra
+    3300006: Cornea
+    3300008: Eyeballs
+    3300010: Eyelashes
+    3300012: Fronthair
+    3300014: Pantsu
+    3300016: Shirt
+    3300018: Shoes
+    3300020: Skirt
+    3300022: Socks
+    3300024: Tophair
+    3300026: Twintails
+    4300000: Cornea
+    4300002: Tophair
+    4300004: Backhair
+    4300006: Twintails
+    4300008: Fronthair
+    4300010: Shoes
+    4300012: Socks
+    4300014: Shirt
+    4300016: Skirt
+    4300018: Bra
+    4300020: Pantsu
+    4300022: Eyeballs
+    4300024: Body
+    4300026: Eyelashes
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Pantsu
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Sara_fromBlender2(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Backhair
+      parentName: Sara_fromBlender2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Body
+      parentName: Sara_fromBlender2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Bra
+      parentName: Sara_fromBlender2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cornea
+      parentName: Sara_fromBlender2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Eyeballs
+      parentName: Sara_fromBlender2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Eyelashes
+      parentName: Sara_fromBlender2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Fronthair
+      parentName: Sara_fromBlender2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Pantsu
+      parentName: Sara_fromBlender2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Shirt
+      parentName: Sara_fromBlender2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Shoes
+      parentName: Sara_fromBlender2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Skirt
+      parentName: Sara_fromBlender2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Socks
+      parentName: Sara_fromBlender2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Tophair
+      parentName: Sara_fromBlender2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Twintails
+      parentName: Sara_fromBlender2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

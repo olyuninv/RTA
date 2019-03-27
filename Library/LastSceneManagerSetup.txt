@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/RTA.unity
+- path: Assets/RTA2.unity
   isLoaded: 1
   isActive: 1
